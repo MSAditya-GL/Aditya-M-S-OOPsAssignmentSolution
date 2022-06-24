@@ -8,7 +8,7 @@ public class TechDepartment extends SuperDepartment {
 	}
 
 	public String getTodaysWork() {
-		return "Complete coding of module 1";
+		return "Complete coding of Module 1";
 	}
 
 	public String getWorkDeadline() {
